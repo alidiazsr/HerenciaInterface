@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\controllers\\esbaseacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:controllers\\esbaseacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\controllers\\herenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:controllers\\herenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\ejemplodeinterfaz\\esbasea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:ejemplodeinterfaz\\esbasea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\controllers\\ejemplodosinterfaz}controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:controllers\\ejemplodosinterfaz}controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\ejemplodeinterfaz\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:ejemplodeinterfaz\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\ejemplodeinterfaz\\esbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:ejemplodeinterfaz\\esbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\controllers\\ejemplointerfazcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:controllers\\ejemplointerfazcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\ejemplodeinterfaz\\leon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:ejemplodeinterfaz\\leon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\ejemplodeinterfaz\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:ejemplodeinterfaz\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\ejemplodeinterfaz\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:ejemplodeinterfaz\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\ejemplodeinterfaz\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:ejemplodeinterfaz\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\ejemplodeinterfaz\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:ejemplodeinterfaz\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\ejemplodeherencia\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:ejemplodeherencia\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\ejemplodeherencia\\leon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:ejemplodeherencia\\leon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\ejemplodeherencia\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:ejemplodeherencia\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\ejemplodeherencia\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:ejemplodeherencia\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\ejemplodeherencia\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:ejemplodeherencia\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\ejemplodeherencia\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:ejemplodeherencia\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|c:\\users\\alidi\\source\\repos\\herenciainterface\\model\\personaejem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143C6452-BEFB-48D5-A8C9-3D94807926D9}|HerenciaInterface.csproj|solutionrelative:model\\personaejem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeHerencia\\Moto.cs",
+              "RelativeDocumentMoniker": "EjemplodeHerencia\\Moto.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeHerencia\\Moto.cs",
+              "RelativeToolTip": "EjemplodeHerencia\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:07:45.24Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EsBaseAController.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\Controllers\\EsBaseAController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EsBaseAController.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\Controllers\\EsBaseAController.cs*",
+              "RelativeToolTip": "Controllers\\EsBaseAController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:00:12.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EsBaseA.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeInterfaz\\EsBaseA.cs",
+              "RelativeDocumentMoniker": "EjemplodeInterfaz\\EsBaseA.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeInterfaz\\EsBaseA.cs*",
+              "RelativeToolTip": "EjemplodeInterfaz\\EsBaseA.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:58:43.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HerenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\Controllers\\HerenciaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HerenciaController.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\Controllers\\HerenciaController.cs",
+              "RelativeToolTip": "Controllers\\HerenciaController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:11:50.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EjemploDosInterfaz}Controller.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\Controllers\\EjemploDosInterfaz}Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\EjemploDosInterfaz}Controller.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\Controllers\\EjemploDosInterfaz}Controller.cs",
+              "RelativeToolTip": "Controllers\\EjemploDosInterfaz}Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:49:22.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EsBase.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeInterfaz\\EsBase.cs",
+              "RelativeDocumentMoniker": "EjemplodeInterfaz\\EsBase.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeInterfaz\\EsBase.cs",
+              "RelativeToolTip": "EjemplodeInterfaz\\EsBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:47:23.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeInterfaz\\IAnimal.cs",
+              "RelativeDocumentMoniker": "EjemplodeInterfaz\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeInterfaz\\IAnimal.cs",
+              "RelativeToolTip": "EjemplodeInterfaz\\IAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:32:53.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EjemploInterfazController.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\Controllers\\EjemploInterfazController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EjemploInterfazController.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\Controllers\\EjemploInterfazController.cs",
+              "RelativeToolTip": "Controllers\\EjemploInterfazController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:36:01.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeInterfaz\\Perro.cs",
+              "RelativeDocumentMoniker": "EjemplodeInterfaz\\Perro.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeInterfaz\\Perro.cs",
+              "RelativeToolTip": "EjemplodeInterfaz\\Perro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:34:40.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Leon.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeInterfaz\\Leon.cs",
+              "RelativeDocumentMoniker": "EjemplodeInterfaz\\Leon.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeInterfaz\\Leon.cs",
+              "RelativeToolTip": "EjemplodeInterfaz\\Leon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:33:20.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeInterfaz\\Auto.cs",
+              "RelativeDocumentMoniker": "EjemplodeInterfaz\\Auto.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeInterfaz\\Auto.cs",
+              "RelativeToolTip": "EjemplodeInterfaz\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:30:40.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeInterfaz\\Moto.cs",
+              "RelativeDocumentMoniker": "EjemplodeInterfaz\\Moto.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeInterfaz\\Moto.cs",
+              "RelativeToolTip": "EjemplodeInterfaz\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:30:53.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeInterfaz\\IVehiculo.cs",
+              "RelativeDocumentMoniker": "EjemplodeInterfaz\\IVehiculo.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeInterfaz\\IVehiculo.cs",
+              "RelativeToolTip": "EjemplodeInterfaz\\IVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:27:41.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeHerencia\\Auto.cs",
+              "RelativeDocumentMoniker": "EjemplodeHerencia\\Auto.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeHerencia\\Auto.cs",
+              "RelativeToolTip": "EjemplodeHerencia\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:07:30.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeHerencia\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "EjemplodeHerencia\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeHerencia\\Vehiculo.cs",
+              "RelativeToolTip": "EjemplodeHerencia\\Vehiculo.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:13:17.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Leon.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeHerencia\\Leon.cs",
+              "RelativeDocumentMoniker": "EjemplodeHerencia\\Leon.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeHerencia\\Leon.cs",
+              "RelativeToolTip": "EjemplodeHerencia\\Leon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:57:20.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AnimalController.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\Controllers\\AnimalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnimalController.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\Controllers\\AnimalController.cs",
+              "RelativeToolTip": "Controllers\\AnimalController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:57:22.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeHerencia\\Animal.cs",
+              "RelativeDocumentMoniker": "EjemplodeHerencia\\Animal.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeHerencia\\Animal.cs",
+              "RelativeToolTip": "EjemplodeHerencia\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:53:32.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeHerencia\\Perro.cs",
+              "RelativeDocumentMoniker": "EjemplodeHerencia\\Perro.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\EjemplodeHerencia\\Perro.cs",
+              "RelativeToolTip": "EjemplodeHerencia\\Perro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:58:42.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Personaejem.cs",
+              "DocumentMoniker": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\Model\\Personaejem.cs",
+              "RelativeDocumentMoniker": "Model\\Personaejem.cs",
+              "ToolTip": "C:\\Users\\alidi\\source\\repos\\HerenciaInterface\\Model\\Personaejem.cs",
+              "RelativeToolTip": "Model\\Personaejem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:49:12.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
